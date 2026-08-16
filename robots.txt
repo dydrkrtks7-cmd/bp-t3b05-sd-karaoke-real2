@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomchang-karaoke-note.karaoke-gyodae-hub.xyz/sitemap.xml
+Sitemap: https://yeomchang-karaoke-note.karaoke-gyodae-hub.xyz/sitemap-pages.xml
